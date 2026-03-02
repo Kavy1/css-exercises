@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+}
+div {
+    text-align: center;
+    background-color: orange;
+    color: white;
+    height: 40px;
+    width: 750;
+    font-size: 30px;
+}
