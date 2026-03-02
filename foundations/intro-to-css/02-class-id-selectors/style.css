@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+body {
+    background-color: white;
+}
+
+.odd {
+    background-color: #c41c38d0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#one {
+    color: rgb(26, 26, 212);
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#two {
+    background-color: rgb(52, 132, 52);
+    font-weight: bold;
+    font-size: 24px;
+}
